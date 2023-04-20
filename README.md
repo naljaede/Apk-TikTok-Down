@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <!-- saved from url=(0033)https://apk2.app/NAInstagram.html -->
 <html><script id="allow-copy_script">(function agent() {
     let unlock = false
