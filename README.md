@@ -1,5 +1,15 @@
 <!-- saved from url=(0033)https://apk2.app/NAInstagram.html -->
-<html><script id="allow-copy_script">(function agent() {
+<html>
+
+<style type="text/css">
+
+h1 {
+    display: none;
+}    
+    
+</style>
+    
+    <script id="allow-copy_script">(function agent() {
     let unlock = false
     document.addEventListener('allow_copy', (event) => {
       unlock = event.detail.unlock
