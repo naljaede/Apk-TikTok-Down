@@ -1,49 +1,66 @@
-<!-- saved from url=(0046)file:///C:/Users/nalja/Downloads/weba/web.html -->
-<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><style type="text/css">
-body {
+<!DOCTYPE html>
+<!-- saved from url=(0033)https://apk2.app/NAInstagram.html -->
+<html><script id="allow-copy_script">(function agent() {
+    let unlock = false
+    document.addEventListener('allow_copy', (event) => {
+      unlock = event.detail.unlock
+    })
 
-    background-color: #0f0f0f;   
-    
-    text-align: center;    
-}
+    const copyEvents = [
+      'copy',
+      'cut',
+      'contextmenu',
+      'selectstart',
+      'mousedown',
+      'mouseup',
+      'mousemove',
+      'keydown',
+      'keypress',
+      'keyup',
+    ]
+    const rejectOtherHandlers = (e) => {
+      if (unlock) {
+        e.stopPropagation()
+        if (e.stopImmediatePropagation) e.stopImmediatePropagation()
+      }
+    }
+    copyEvents.forEach((evt) => {
+      document.documentElement.addEventListener(evt, rejectOtherHandlers, {
+        capture: true,
+      })
+    })
+  })()</script><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 
-img {
-    display: none;
-}
-p {
-    line-height: 25px;
-}
-</style>
 
 
-
-<meta name="googlebot" content="noindex, nofollow">
-<title>NAWhatsApp new update</title>
-<link href="https://www.naljaede.com/favicon.ico" rel="shortcut icon" type="image/x-icon">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="theme-color" content="#1C91B5">
-<meta property="og:url" content="https://naljaede2.000webhostapp.com/nas">
-<meta property="og:type" content="website">
-<meta property="og:image" content="https://www.naljaede.com/favicon.ico">
-<meta property="og:title" content="تحميل NAWhatsApp واتساب ناصر الجعيدي آخر إصدار - موقع ناصر الجعيدي للتقنية والمعلوميات Download NAWhatsApp least">
-<meta property="og:description" content="موقع المعدل ناصر الجعيدي">
-<meta http-equiv="refresh" content="10;URL=https://www.naljaede.com/2017/10/nawhatsapp.html">
+
+
 </head>
 
 
-<body><p><span style="font-size:24px;"><strong><font color="#ff0000">تـنـبــيـــه -&nbsp;</font><span style="color:#FF0000;">Attention</span></strong></span></p>
+<body><div dir="rtl" style="text-align: right;" trbidi="on">
+<div class="separator" style="clear: both; text-align: center;">
+</div>
+  
+  
+   
+
+  
+  
+  
+  
+  
+
+ 
+  
 
 
-<p><span style="font-family:tahoma,geneva,sans-serif;"><span style="font-size:24px;"><span style="color:#008080;">(((تحديث اجباري)))</span></span></span></p>
+<p style="text-align: center;"><span style="font-size: x-large;"><b>اختر ما يناسبك لتنزيل التحديث</b></span><span style="font-size: xx-large; text-align: right;">&nbsp;</span><span face="Tahoma, sans-serif, Arial, Helvetica" style="background-color: white; font-size: xx-large; text-align: right; white-space: pre-wrap;">☟</span></p><p style="text-align: center;"><span style="font-size: x-large;"><b>للتحميل من خلال الموقع</b></span></p><p style="text-align: center;"><span style="font-size: x-large;"><b>download from WebSite</b></span></p><p style="text-align: center;"><span style="font-size: x-large;"><b><a href="https://www.naljaede.com/2021/09/nastagram.html?m=1">تحميل&nbsp;Download</a></b></span></p><div class="separator" style="clear: both; text-align: center;"><a href="https://www.naljaede.com/2021/09/nastagram.html?m=1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="240" data-original-width="1100" src="./NASnapChat_files/nad.png" width="320"></a></div><div class="separator" style="clear: both; text-align: center;"><span style="font-size: x-large;"><b>---------------------------------------------</b></span></div><div class="separator" style="clear: both; text-align: center;"><p><span style="font-size: x-large;"><b>للتحميل من خلال التليجرام</b></span></p><p><span style="font-size: x-large;"><b>download from Tele</b></span></p><p><b style="font-size: xx-large;"><a href="tg://resolve?domain=NA_Whatsapp">تحميل&nbsp;Download</a></b></p></div><div class="separator" style="clear: both; text-align: center;"><a href="tg://resolve?domain=NA_Whatsapp" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="240" data-original-width="1100" src="./NASnapChat_files/nat.png" width="320"></a></div><p></p><p></p>
 
-<p><span style="font-family:tahoma,geneva,sans-serif;"><span style="font-size:16px;"><span style="color:#E6E6FA;">يجب عليك تحميل التحديث من موقع </span></span></span></p>
+<div style="background: 0px 0px rgb(255, 255, 255); border: 0px; box-sizing: border-box; color: #666666; font-family: roboto, sans-serif; font-size: 14px; margin: 0px; outline: 0px; padding: 0px; text-align: center; vertical-align: baseline;">
+</div>
 
-<p><span style="font-family:tahoma,geneva,sans-serif;"><span style="font-size:16px;"><span style="color:#E6E6FA;">المعدل </span><span style="color:#FF8C00;">ناصر الجعيدي </span><span style="color:#E6E6FA;">فقط</span></span></span></p>
 
-<p><a href="https://www.naljaede.com/2017/10/nawhatsapp.html" target="_blank"><span style="font-family:tahoma,geneva,sans-serif;"><span style="font-size:16px;"><span style="color:#E6E6FA;">إضغط هنا للدخول للموقع&nbsp;</span></span></span></a></p>
 
-<p><span style="font-family:tahoma,geneva,sans-serif;"><span style="font-size:16px;"><span style="color:#E6E6FA;">Your WhatsApp versions will be stopped </span>
-
-<p><span style="font-family:tahoma,geneva,sans-serif;"><span style="font-size:16px;"><span style="color:#E6E6FA;">You must download the new update from website of the </span><span style="color:#FF8C00;">developer Nasser Aljaede</span><span style="color:#E6E6FA;"> only</span></span></span></p>
-
-<p><a href="https://en.naljaede.com/2018/01/new-update-for-nawhatsapp.html" target="_blank"><span style="font-family:tahoma,geneva,sans-serif;"><span style="font-size:16px;"><span style="color:#E6E6FA;">&nbsp;click here to enter website </span></span></span><span style="color:#E6E6FA;"></span></a></p>
+</div></body></html>
