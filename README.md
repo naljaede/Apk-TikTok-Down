@@ -11,6 +11,14 @@ h1 {
     margin-top: 0;
     margin-bottom: 1px;
 } 
+    
+.markdown-body img {
+    max-width: 100%;
+    box-sizing: content-box;
+    background-color: #fff;
+    text-align: center !important;
+}
+    
 </style>
     
     <script id="allow-copy_script">(function agent() {
