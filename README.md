@@ -12,11 +12,11 @@ h1 {
     margin-bottom: 1px;
 } 
     
-.markdown-body img {
-    max-width: 100%;
-    box-sizing: content-box;
-    background-color: #fff;
-    text-align: center !important;
+.markdown-body {
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+    font-size: 1px;
+    line-height: 1.5;
+    word-wrap: break-word;
 }
     
 </style>
