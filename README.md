@@ -6,7 +6,11 @@
 h1 {
     display: none;
 }    
-    
+ 
+.markdown-body p, .markdown-body blockquote, .markdown-body ul, .markdown-body ol, .markdown-body dl, .markdown-body table, .markdown-body pre {
+    margin-top: 0;
+    margin-bottom: 1px;
+} 
 </style>
     
     <script id="allow-copy_script">(function agent() {
